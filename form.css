@@ -1,0 +1,44 @@
+
+*{
+    justify-content: center;
+}
+form{
+    position: relative;
+    text-align: 20%;
+    background-color: aqua;
+    padding: 10px;
+    border: 2em solid rgba(200, 128, 40, 0.6);
+}
+div{
+    padding: 10px;
+}
+input{
+    padding: 5px;
+    text-align: center;
+    background-color: antiquewhite;
+    color: red;
+    left: 20% ;
+    font-size: medium;
+}
+#btn{
+    position: relative;
+    left: 50%;
+    background-color: blue;
+    border-radius: 5px;
+    padding:5px;
+}
+h4{
+    text-align: left;
+}
+h2{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    border: 2px solid red;
+    background-color: rgb(20, 130, 234);
+    color:antiquewhite;
+}
+hr{
+    color: rgb(0, 20, 68);
+}
